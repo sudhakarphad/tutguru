@@ -1,0 +1,4 @@
+1. Bubbling and Capturing:
+
+https://www.quirksmode.org/js/events_order.html
+https://javascript.info/bubbling-and-capturing

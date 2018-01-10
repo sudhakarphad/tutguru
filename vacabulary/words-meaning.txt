@@ -1,0 +1,3 @@
+primitive - data that is not an object and has no methods.
+emmuatable - cannot be changed.
+null - is one of primitive values.

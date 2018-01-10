@@ -1,0 +1,29 @@
+Makrup:
+HTML,CSS,Bootstrap
+
+FrontEnd: 
+javaScript, Jquery, Angular 1, Angular 2, typeScript
+Goals: React.js
+
+BackEnd:
+PHP
+Goals:
+node JS.
+
+DataBases:
+MySql
+Goals:
+MOngoDB
+tools:
+Git, Bower, grunt, gulp
+
+Testing tools:
+karma, jasmin, Protactor
+
+CMS:
+WordPress, Joomla,Magento
+
+
+EXTAR CURRICULAM:
+
+Deep learning.

@@ -1,0 +1,7 @@
+* ngOnInit():
+
+ngOnInit is a life cycle hook called by Angular2 to indicate that Angular is done creating the component.
+
+We have to import OnInit in order to use like this
+(actually implementing OnInit is not mandatory but considered good practice):
+https://stackoverflow.com/questions/35763730/difference-between-constructor-and-ngoninit

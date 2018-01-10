@@ -1,0 +1,2 @@
+* data-bound-properties: https://stackoverflow.com/questions/39367423/what-is-data-bound-properties
+* Angular life cycle: can refer google. ( https://angular.io/guide/lifecycle-hooks )

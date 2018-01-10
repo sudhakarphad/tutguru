@@ -1,0 +1,2 @@
+create firebase app with angular:
+https://progblog.io/Angular-2-Firebase-Tutorial-Part-1-Create-a-Firebase-3-CRUD-app-with-Angular-CLI/
